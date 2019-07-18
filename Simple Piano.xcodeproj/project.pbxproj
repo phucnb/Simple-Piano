@@ -12,6 +12,18 @@
 		0247380222E09ED400FF7A55 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0247380022E09ED400FF7A55 /* Main.storyboard */; };
 		0247380422E09ED700FF7A55 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0247380322E09ED700FF7A55 /* Assets.xcassets */; };
 		0247380722E09ED700FF7A55 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0247380522E09ED700FF7A55 /* LaunchScreen.storyboard */; };
+		0247381D22E0F33800FF7A55 /* Db4.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 0247381122E0F33800FF7A55 /* Db4.aiff */; };
+		0247381E22E0F33800FF7A55 /* B4.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 0247381222E0F33800FF7A55 /* B4.aiff */; };
+		0247381F22E0F33800FF7A55 /* E4.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 0247381322E0F33800FF7A55 /* E4.aiff */; };
+		0247382022E0F33800FF7A55 /* Eb4.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 0247381422E0F33800FF7A55 /* Eb4.aiff */; };
+		0247382122E0F33800FF7A55 /* Bb4.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 0247381522E0F33800FF7A55 /* Bb4.aiff */; };
+		0247382222E0F33800FF7A55 /* C4.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 0247381622E0F33800FF7A55 /* C4.aiff */; };
+		0247382322E0F33800FF7A55 /* Ab4.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 0247381722E0F33800FF7A55 /* Ab4.aiff */; };
+		0247382422E0F33800FF7A55 /* G4.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 0247381822E0F33800FF7A55 /* G4.aiff */; };
+		0247382522E0F33800FF7A55 /* F4.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 0247381922E0F33800FF7A55 /* F4.aiff */; };
+		0247382622E0F33800FF7A55 /* Gb4.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 0247381A22E0F33800FF7A55 /* Gb4.aiff */; };
+		0247382722E0F33800FF7A55 /* D4.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 0247381B22E0F33800FF7A55 /* D4.aiff */; };
+		0247382822E0F33800FF7A55 /* A4.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 0247381C22E0F33800FF7A55 /* A4.aiff */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +34,18 @@
 		0247380322E09ED700FF7A55 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0247380622E09ED700FF7A55 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0247380822E09ED700FF7A55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0247381122E0F33800FF7A55 /* Db4.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = Db4.aiff; sourceTree = "<group>"; };
+		0247381222E0F33800FF7A55 /* B4.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = B4.aiff; sourceTree = "<group>"; };
+		0247381322E0F33800FF7A55 /* E4.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = E4.aiff; sourceTree = "<group>"; };
+		0247381422E0F33800FF7A55 /* Eb4.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = Eb4.aiff; sourceTree = "<group>"; };
+		0247381522E0F33800FF7A55 /* Bb4.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = Bb4.aiff; sourceTree = "<group>"; };
+		0247381622E0F33800FF7A55 /* C4.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = C4.aiff; sourceTree = "<group>"; };
+		0247381722E0F33800FF7A55 /* Ab4.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = Ab4.aiff; sourceTree = "<group>"; };
+		0247381822E0F33800FF7A55 /* G4.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = G4.aiff; sourceTree = "<group>"; };
+		0247381922E0F33800FF7A55 /* F4.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = F4.aiff; sourceTree = "<group>"; };
+		0247381A22E0F33800FF7A55 /* Gb4.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = Gb4.aiff; sourceTree = "<group>"; };
+		0247381B22E0F33800FF7A55 /* D4.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = D4.aiff; sourceTree = "<group>"; };
+		0247381C22E0F33800FF7A55 /* A4.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = A4.aiff; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +78,18 @@
 		024737FB22E09ED400FF7A55 /* Simple Piano */ = {
 			isa = PBXGroup;
 			children = (
+				0247381C22E0F33800FF7A55 /* A4.aiff */,
+				0247381722E0F33800FF7A55 /* Ab4.aiff */,
+				0247381222E0F33800FF7A55 /* B4.aiff */,
+				0247381522E0F33800FF7A55 /* Bb4.aiff */,
+				0247381622E0F33800FF7A55 /* C4.aiff */,
+				0247381B22E0F33800FF7A55 /* D4.aiff */,
+				0247381122E0F33800FF7A55 /* Db4.aiff */,
+				0247381322E0F33800FF7A55 /* E4.aiff */,
+				0247381422E0F33800FF7A55 /* Eb4.aiff */,
+				0247381922E0F33800FF7A55 /* F4.aiff */,
+				0247381822E0F33800FF7A55 /* G4.aiff */,
+				0247381A22E0F33800FF7A55 /* Gb4.aiff */,
 				024737FC22E09ED400FF7A55 /* AppDelegate.swift */,
 				024737FE22E09ED400FF7A55 /* ViewController.swift */,
 				0247380022E09ED400FF7A55 /* Main.storyboard */,
@@ -122,9 +158,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0247382222E0F33800FF7A55 /* C4.aiff in Resources */,
+				0247382722E0F33800FF7A55 /* D4.aiff in Resources */,
+				0247381F22E0F33800FF7A55 /* E4.aiff in Resources */,
+				0247382822E0F33800FF7A55 /* A4.aiff in Resources */,
 				0247380722E09ED700FF7A55 /* LaunchScreen.storyboard in Resources */,
+				0247382322E0F33800FF7A55 /* Ab4.aiff in Resources */,
+				0247382622E0F33800FF7A55 /* Gb4.aiff in Resources */,
 				0247380422E09ED700FF7A55 /* Assets.xcassets in Resources */,
+				0247381D22E0F33800FF7A55 /* Db4.aiff in Resources */,
+				0247382422E0F33800FF7A55 /* G4.aiff in Resources */,
+				0247382122E0F33800FF7A55 /* Bb4.aiff in Resources */,
 				0247380222E09ED400FF7A55 /* Main.storyboard in Resources */,
+				0247382522E0F33800FF7A55 /* F4.aiff in Resources */,
+				0247381E22E0F33800FF7A55 /* B4.aiff in Resources */,
+				0247382022E0F33800FF7A55 /* Eb4.aiff in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -292,7 +340,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.phucnb.Simple-Piano";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -310,7 +358,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.phucnb.Simple-Piano";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
